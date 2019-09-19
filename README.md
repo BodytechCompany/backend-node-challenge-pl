@@ -58,6 +58,7 @@ O candidato mais novo tem prioridade, assim como o que ainda não é aluno da fa
  - Gestão de dependências via gerenciador de pacote
  - Uma outra pessoa estará lendo o que você fez, portanto, lembre-se de buscar trazer a semântica do problema no seu código
  - Garanta a qualidade do seu código
+ - Seja criativo
  - Prazo de 5 (cinco) dias corridos
 
 
